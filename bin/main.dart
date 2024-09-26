@@ -1,6 +1,6 @@
 import 'book.dart';
 
-void main(List<String> arguments) {
+void main() {
   Book book1 = Book('Beginning Flutter: A Hands On Guide to App Development', 'Napoli', 2019);
   Book book2 = Book('The Object-Oriented Thought Process', 'Matt Weisfeld', 2000);
   Book book3 = Book('Dart Apprentice: Fundamentals', 'Jonathan Sande', 2022);
